@@ -1,0 +1,24 @@
+ID,Name,Department,Marks
+1,Alice,Computer Science,85
+2,Bob,Mathematics,72
+3,Charlie,Computer Science,91
+4,Diana,Physics,78
+5,Eve,Mathematics,88
+6,Frank,Physics,65
+7,Grace,Computer Science,95
+8,Henry,Mathematics,45
+9,Ivy,Physics,82
+10,Jack,Computer Science,76
+11,Kate,Mathematics,93
+12,Leo,Physics,59
+13,Mia,Computer Science,88
+14,Noah,Mathematics,71
+15,Olivia,Physics,84
+16,Peter,Computer Science,67
+17,Quinn,Mathematics,79
+18,Rachel,Physics,92
+19,Sam,Computer Science,74
+20,Tina,Mathematics,86
+21,Uma,Physics,,91
+22,Victor,Computer Science,
+23,Wendy,Mathematics,73
