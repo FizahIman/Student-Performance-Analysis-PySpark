@@ -1,8 +1,7 @@
 # Student Performance Analysis using PySpark
 
 **Big Data Course Project**  
-Assigned by Miss Nimra Razzag  
-Big Data Subject Teacher  
+Assigned by Miss Nimra Razzak   
 
 ---
 
@@ -101,7 +100,7 @@ Successfully analyzed student performance data using PySpark, demonstrating esse
 
 This project was completed as part of the Big Data course project assigned by:
 
-**Miss Nimra Razzag**
+**Miss Nimra Razzak**
 
 Big Data Subject Teacher
 
