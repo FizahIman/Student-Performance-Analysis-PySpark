@@ -1,101 +1,25 @@
-student_id,gender,age,study_hours_per_week,attendance_percentage,previous_grade,parent_education,internet_access,extra_curricular,math_score,science_score,english_score,average_score,pass_fail
-ST001,Male,17,12,92,A,Bachelor,Yes,Sports,78,82,75,78.3,Pass
-ST002,Female,18,15,95,A,Master,Yes,Music,85,88,90,87.7,Pass
-ST003,Male,16,8,78,C,High School,Yes,None,55,58,52,55.0,Pass
-ST004,Female,17,6,65,D,High School,No,None,42,38,45,41.7,Fail
-ST005,Male,18,14,88,B,Bachelor,Yes,Drama,72,76,78,75.3,Pass
-ST006,Female,16,10,82,B,Associate,Yes,Sports,68,72,70,70.0,Pass
-ST007,Male,17,5,55,F,High School,No,None,35,32,38,35.0,Fail
-ST008,Female,18,18,98,A,Master,Yes,Debate,95,92,96,94.3,Pass
-ST009,Male,16,7,70,C,Some College,Yes,None,52,55,58,55.0,Pass
-ST010,Female,17,11,85,B,Bachelor,Yes,Art,72,78,74,74.7,Pass
-ST011,Male,18,3,40,F,High School,No,None,28,30,25,27.7,Fail
-ST012,Female,16,16,92,A,Master,Yes,Music,88,90,94,90.7,Pass
-ST013,Male,17,9,75,C,Some College,No,Sports,58,60,55,57.7,Pass
-ST014,Female,18,13,88,B,Bachelor,Yes,None,76,80,82,79.3,Pass
-ST015,Male,16,4,50,D,High School,No,None,40,42,38,40.0,Fail
-ST016,Female,17,17,96,A,Master,Yes,Debate,92,95,98,95.0,Pass
-ST017,Male,18,8,72,C,Associate,Yes,Sports,56,58,60,58.0,Pass
-ST018,Female,16,12,86,B,Bachelor,Yes,Art,74,78,76,76.0,Pass
-ST019,Male,17,6,60,D,High School,No,None,45,42,48,45.0,Fail
-ST020,Female,18,14,90,A,Master,Yes,Music,82,85,88,85.0,Pass
-ST021,Male,16,10,78,C,Some College,Yes,None,62,65,60,62.3,Pass
-ST022,Female,17,7,68,D,Bachelor,Yes,Sports,54,58,52,54.7,Pass
-ST023,Male,18,15,94,A,Master,Yes,Debate,88,90,92,90.0,Pass
-ST024,Female,16,5,55,F,High School,No,None,38,35,40,37.7,Fail
-ST025,Male,17,11,84,B,Associate,Yes,Art,68,72,70,70.0,Pass
-ST026,Female,18,9,72,C,Bachelor,Yes,None,64,68,66,66.0,Pass
-ST027,Male,16,13,88,B,Master,Yes,Music,78,82,80,80.0,Pass
-ST028,Female,17,4,45,F,Some College,No,None,32,28,30,30.0,Fail
-ST029,Male,18,16,95,A,Bachelor,Yes,Sports,85,88,82,85.0,Pass
-ST030,Female,16,8,74,C,High School,Yes,None,58,60,56,58.0,Pass
-ST031,Male,17,12,82,B,Master,Yes,Debate,74,78,76,76.0,Pass
-ST032,Female,18,6,62,D,Associate,No,Sports,48,50,45,47.7,Fail
-ST033,Male,16,17,92,A,Bachelor,Yes,Art,82,85,88,85.0,Pass
-ST034,Female,17,10,76,C,Some College,Yes,None,66,70,68,68.0,Pass
-ST035,Male,18,7,65,D,High School,No,None,52,48,50,50.0,Pass
-ST036,Female,16,14,90,A,Master,Yes,Music,90,92,94,92.0,Pass
-ST037,Male,17,5,48,F,High School,No,None,30,32,28,30.0,Fail
-ST038,Female,18,18,97,A,Bachelor,Yes,None,95,98,96,96.3,Pass
-ST039,Male,16,11,80,B,Associate,Yes,Sports,70,72,68,70.0,Pass
-ST040,Female,17,8,70,C,Some College,Yes,None,60,62,64,62.0,Pass
-ST041,Male,18,15,89,A,Master,Yes,Debate,82,80,85,82.3,Pass
-ST042,Female,16,6,58,D,High School,No,Art,44,40,42,42.0,Fail
-ST043,Male,17,13,86,B,Bachelor,Yes,Music,76,78,74,76.0,Pass
-ST044,Female,18,9,73,C,Associate,Yes,Sports,62,66,64,64.0,Pass
-ST045,Male,16,16,93,A,Master,Yes,None,88,90,92,90.0,Pass
-ST046,Female,17,4,42,F,High School,No,None,25,28,30,27.7,Fail
-ST047,Male,18,12,84,B,Bachelor,Yes,Debate,74,76,72,74.0,Pass
-ST048,Female,16,10,77,C,Some College,Yes,Art,64,68,66,66.0,Pass
-ST049,Male,17,7,63,D,High School,No,Sports,50,48,52,50.0,Pass
-ST050,Female,18,17,94,A,Master,Yes,Music,92,95,90,92.3,Pass
-ST051,Male,16,8,71,C,Associate,Yes,None,56,58,54,56.0,Pass
-ST052,Female,17,14,87,B,Bachelor,Yes,Debate,80,82,78,80.0,Pass
-ST053,Male,18,5,52,F,Some College,No,None,38,34,36,36.0,Fail
-ST054,Female,16,11,81,B,Master,Yes,Art,72,74,76,74.0,Pass
-ST055,Male,17,9,69,D,High School,Yes,Sports,54,52,56,54.0,Pass
-ST056,Female,18,16,91,A,Bachelor,Yes,Music,85,88,82,85.0,Pass
-ST057,Male,16,6,56,F,Associate,No,None,42,40,38,40.0,Fail
-ST058,Female,17,13,85,B,Master,Yes,None,78,80,82,80.0,Pass
-ST059,Male,18,10,74,C,Some College,Yes,Debate,66,64,68,66.0,Pass
-ST060,Female,16,15,89,A,Bachelor,Yes,Sports,82,85,88,85.0,Pass
-ST061,Male,17,4,44,F,High School,No,None,28,26,24,26.0,Fail
-ST062,Female,18,12,83,B,Master,Yes,Art,74,78,76,76.0,Pass
-ST063,Male,16,8,72,C,Associate,Yes,Music,58,60,56,58.0,Pass
-ST064,Female,17,17,93,A,Bachelor,Yes,None,88,90,92,90.0,Pass
-ST065,Male,18,7,61,D,High School,No,Sports,48,45,50,47.7,Fail
-ST066,Female,16,14,86,B,Master,Yes,Debate,80,82,84,82.0,Pass
-ST067,Male,17,10,75,C,Some College,Yes,Art,64,62,66,64.0,Pass
-ST068,Female,18,5,49,F,Associate,No,None,32,30,28,30.0,Fail
-ST069,Male,16,11,79,B,Bachelor,Yes,Music,70,72,68,70.0,Pass
-ST070,Female,17,16,90,A,Master,Yes,Sports,86,88,84,86.0,Pass
-ST071,Male,18,9,68,D,High School,Yes,None,52,54,50,52.0,Pass
-ST072,Female,16,13,84,B,Bachelor,Yes,Debate,76,78,80,78.0,Pass
-ST073,Male,17,6,57,F,Some College,No,Art,40,38,42,40.0,Fail
-ST074,Female,18,15,88,A,Master,Yes,Music,84,86,82,84.0,Pass
-ST075,Male,16,8,73,C,Associate,Yes,Sports,60,58,62,60.0,Pass
-ST076,Female,17,12,82,B,Bachelor,Yes,None,72,74,70,72.0,Pass
-ST077,Male,18,4,46,F,High School,No,None,30,28,32,30.0,Fail
-ST078,Female,16,18,96,A,Master,Yes,Debate,94,96,92,94.0,Pass
-ST079,Male,17,10,76,C,Some College,Yes,Art,62,64,60,62.0,Pass
-ST080,Female,18,7,64,D,Bachelor,Yes,Music,56,58,54,56.0,Pass
-ST081,Male,16,14,87,B,Master,Yes,Sports,78,80,76,78.0,Pass
-ST082,Female,17,5,51,F,Associate,No,None,34,30,28,30.7,Fail
-ST083,Male,18,11,80,B,Bachelor,Yes,Debate,68,70,72,70.0,Pass
-ST084,Female,16,16,91,A,Some College,Yes,None,82,84,86,84.0,Pass
-ST085,Male,17,8,70,C,High School,Yes,Art,54,56,52,54.0,Pass
-ST086,Female,18,13,85,B,Master,Yes,Music,76,78,74,76.0,Pass
-ST087,Male,16,6,54,F,High School,No,Sports,36,34,38,36.0,Fail
-ST088,Female,17,15,89,A,Bachelor,Yes,Debate,86,88,84,86.0,Pass
-ST089,Male,18,9,71,C,Associate,Yes,None,58,56,60,58.0,Pass
-ST090,Female,16,17,94,A,Master,Yes,Art,90,92,88,90.0,Pass
-ST091,Male,17,7,62,D,Some College,No,Sports,46,44,48,46.0,Fail
-ST092,Female,18,12,81,B,Bachelor,Yes,Music,72,74,70,72.0,Pass
-ST093,Male,16,10,77,C,Master,Yes,None,64,66,62,64.0,Pass
-ST094,Female,17,14,86,B,High School,Yes,Debate,78,80,76,78.0,Pass
-ST095,Male,18,5,48,F,Associate,No,Art,32,28,30,30.0,Fail
-ST096,Female,16,16,92,A,Bachelor,Yes,Sports,84,86,88,86.0,Pass
-ST097,Male,17,8,69,D,Some College,Yes,Music,52,54,50,52.0,Pass
-ST098,Female,18,11,79,B,Master,Yes,None,70,72,68,70.0,Pass
-ST099,Male,16,13,83,B,Bachelor,Yes,Debate,76,74,78,76.0,Pass
-ST100,Female,17,18,98,A,Master,Yes,Art,96,98,94,96.0,Pass
+| ID | Name    | Department        | Marks |
+|----|---------|-------------------|-------|
+| 1  | Alice   | Computer Science  | 85    |
+| 2  | Bob     | Mathematics       | 72    |
+| 3  | Charlie | Computer Science  | 91    |
+| 4  | Diana   | Physics           | 78    |
+| 5  | Eve     | Mathematics       | 88    |
+| 6  | Frank   | Physics           | 65    |
+| 7  | Grace   | Computer Science  | 95    |
+| 8  | Henry   | Mathematics       | 45    |
+| 9  | Ivy     | Physics           | 82    |
+| 10 | Jack    | Computer Science  | 76    |
+| 11 | Kate    | Mathematics       | 93    |
+| 12 | Leo     | Physics           | 59    |
+| 13 | Mia     | Computer Science  | 88    |
+| 14 | Noah    | Mathematics       | 71    |
+| 15 | Olivia  | Physics           | 84    |
+| 16 | Peter   | Computer Science  | 67    |
+| 17 | Quinn   | Mathematics       | 79    |
+| 18 | Rachel  | Physics           | 92    |
+| 19 | Sam     | Computer Science  | 74    |
+| 20 | Tina    | Mathematics       | 86    |
+| 21 | Uma     | Physics           | 91    |
+| 22 | Victor  | Computer Science  |       |
+| 23 | Wendy   | Mathematics       | 73    |
